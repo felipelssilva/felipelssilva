@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Felipe Luis from Brazil (🇧🇷).
+My name is Felipe Luis from Brazil 🇧🇷 and I'm front-end engineer 🧔🏼💻.
 
 Would you like to find me?
 
