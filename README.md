@@ -10,3 +10,4 @@ My name is Felipe Luis from Brazil 🇧🇷 and I'm front-end engineer 🧔🏼�
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelssilva)](https://www.linkedin.com/in/felipelssilva)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipelssilva&show_icons=true" alt="felipelssilva" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelssilva&layout=compact" alt="felipelssilva" /> </p>
