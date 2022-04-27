@@ -9,6 +9,6 @@ My name is Felipe Luis, I'm from Brazil and I'm front-end engineer 🧔🏼💻.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipeluisss)](https://twitter.com/felipeluisss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelssilva)](https://www.linkedin.com/in/felipelssilva)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelssilva&layout=compact" alt="felipelssilva" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipelssilva&show_icons=true" alt="felipelssilva" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelssilva&layout=compact&theme=dracula" alt="felipelssilva" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipelssilva&show_icons=true&theme=dracula" alt="felipelssilva" /> </p>
 
