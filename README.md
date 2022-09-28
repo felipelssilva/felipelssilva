@@ -33,7 +33,7 @@
 
 <h3 align="left">My Github status:</h3>
 
-<p align="left"><img align="center" src="https://github-profile-trophy.vercel.app/?username=felipelssilva&column=-1"/></p>
+<p align="left"><img align="center" src="https://github-profile-trophy.vercel.app/?username=felipelssilva&margin-w=15&margin-h=15&column=-1"/></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipelssilva&" /></p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipelssilva&show_icons=true&locale=en" /></p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipelssilva&show_icons=true&locale=en&layout=compact" /></p>
