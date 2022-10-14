@@ -14,10 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/felipeluisjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felipeluisss" height="30" width="40" /></a>
 <a href="https://twitter.com/felipeluisss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipeluisss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felipelssilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipelssilva" height="30" width="40" /></a>
-<a href="https://fb.com/felipel.silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipel.silva" height="30" width="40" /></a>
 <a href="https://instagram.com/felipeluis.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipeluiss" height="30" width="40" /></a>
 </p>
 
