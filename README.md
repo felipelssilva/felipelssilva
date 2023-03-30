@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Level Up](https://leveluplatam.com/)
 - 🌱 I’m currently learning **JavaScript, TypeScript**
 - 👨‍💻 All of my projects are available at [https://www.felipeluis.com.br/my-projects](https://www.felipeluis.com.br/my-projects)
-- 📝 I regularly write articles on [https://www.felipeluis.com.br/blog](https://www.felipeluis.com.br/blog)
+- 📝 I regularly write articles on [https://blog.felipeluis.com.br](https://blog.felipeluis.com.br)
 - 💬 Ask me about **react, angular, typescript, javascript**
 - 📫 How to reach me **contato@felipeluis.com.br**
 - 📄 Know about my experiences [https://www.felipeluis.com.br/about-me](https://www.felipeluis.com.br/about-me)
