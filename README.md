@@ -10,7 +10,7 @@
 - 💬 Ask me about **react, angular, typescript, javascript**
 - 📫 How to reach me **contato@felipeluis.com.br**
 - 📄 Know about my experiences [https://www.felipeluis.com.br/#about](https://www.felipeluis.com.br/#about)
-- ⚡ Fun fact **JavaScript accepted me for a not long time ago**
+- ⚡ Fun fact **I been tried to play guitar... and, now I know how to play a drums**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
