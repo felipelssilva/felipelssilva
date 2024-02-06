@@ -4,13 +4,13 @@
 <h3 align="left">About:</h3>
 
 - 🔭 I’m currently working on [NTT Data](https://nttdata-solutions.com/)
-- 🌱 I’m currently learning **JavaScript, TypeScript**
+- 🌱 I’m currently learning **JavaScript, TypeScript, English and French**
 - 👨‍💻 All of my projects are available at [https://www.felipeluis.com.br/](https://www.felipeluis.com.br/)
 - 📝 I regularly write articles on [https://blog.felipeluis.com.br](https://blog.felipeluis.com.br)
 - 💬 Ask me about **react, angular, typescript, javascript**
 - 📫 How to reach me **contato@felipeluis.com.br**
 - 📄 Know about my experiences [https://www.felipeluis.com.br/#about](https://www.felipeluis.com.br/#about)
-- ⚡ Fun fact **I been tried to play guitar... and, now I know how to play a drums**
+- ⚡ Fun fact **I have tried to play guitar... and, now I know how to play drums**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
