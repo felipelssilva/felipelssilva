@@ -28,6 +28,8 @@
 
 ### :zap: Recent Activity
 
+---
+
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#350](https://github.com/felipelssilva/felipeluis.github.io/pull/350) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 2. ❌ Closed PR [#352](https://github.com/felipelssilva/felipeluis.github.io/pull/352) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
@@ -36,5 +38,4 @@
 5. ❌ Closed PR [#347](https://github.com/felipelssilva/felipeluis.github.io/pull/347) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 <!--END_SECTION:activity-->
 
----
 
