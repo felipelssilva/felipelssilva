@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#350](https://github.com/felipelssilva/felipeluis.github.io/pull/350) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-2. ❌ Closed PR [#352](https://github.com/felipelssilva/felipeluis.github.io/pull/352) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-3. ❌ Closed PR [#351](https://github.com/felipelssilva/felipeluis.github.io/pull/351) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-4. ❌ Closed PR [#348](https://github.com/felipelssilva/felipeluis.github.io/pull/348) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-5. ❌ Closed PR [#347](https://github.com/felipelssilva/felipeluis.github.io/pull/347) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+1. 🎉 Merged PR [#2](https://github.com/felipelssilva/felipelssilva/pull/2) in [felipelssilva/felipelssilva](https://github.com/felipelssilva/felipelssilva)
+2. 💪 Opened PR [#2](https://github.com/felipelssilva/felipelssilva/pull/2) in [felipelssilva/felipelssilva](https://github.com/felipelssilva/felipelssilva)
+3. ❌ Closed PR [#350](https://github.com/felipelssilva/felipeluis.github.io/pull/350) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+4. ❌ Closed PR [#352](https://github.com/felipelssilva/felipeluis.github.io/pull/352) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+5. ❌ Closed PR [#351](https://github.com/felipelssilva/felipeluis.github.io/pull/351) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 <!--END_SECTION:activity-->
 
 
