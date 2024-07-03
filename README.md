@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Felipe Luis</h1>
-<h3 align="left">A passionate frontend developer living in Brazil 😸💻</h3>
+<h3 align="left">A passionate frontend developer living in France 🇫🇷 💻</h3>
 
 <h3 align="left">About:</h3>
 
