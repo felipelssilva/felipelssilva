@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/felipelssilva/felipelssilva/pull/2) in [felipelssilva/felipelssilva](https://github.com/felipelssilva/felipelssilva)
-2. 💪 Opened PR [#2](https://github.com/felipelssilva/felipelssilva/pull/2) in [felipelssilva/felipelssilva](https://github.com/felipelssilva/felipelssilva)
-3. ❌ Closed PR [#350](https://github.com/felipelssilva/felipeluis.github.io/pull/350) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-4. ❌ Closed PR [#352](https://github.com/felipelssilva/felipeluis.github.io/pull/352) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-5. ❌ Closed PR [#351](https://github.com/felipelssilva/felipeluis.github.io/pull/351) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+1. 🗣 Commented on [#8030](https://github.com/frontendbr/vagas/issues/8030#issuecomment-2230550181) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+2. 🗣 Commented on [#8061](https://github.com/frontendbr/vagas/issues/8061#issuecomment-2230549661) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+3. 🗣 Commented on [#8063](https://github.com/frontendbr/vagas/issues/8063#issuecomment-2230547907) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+4. 🗣 Commented on [#8079](https://github.com/frontendbr/vagas/issues/8079#issuecomment-2230544415) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+5. 🎉 Merged PR [#2](https://github.com/felipelssilva/felipelssilva/pull/2) in [felipelssilva/felipelssilva](https://github.com/felipelssilva/felipelssilva)
 <!--END_SECTION:activity-->
 
 
