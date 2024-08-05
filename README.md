@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7995](https://github.com/frontendbr/vagas/issues/7995#issuecomment-2231498014) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
-2. 🗣 Commented on [#8030](https://github.com/frontendbr/vagas/issues/8030#issuecomment-2230550181) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
-3. 🗣 Commented on [#8061](https://github.com/frontendbr/vagas/issues/8061#issuecomment-2230549661) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
-4. 🗣 Commented on [#8063](https://github.com/frontendbr/vagas/issues/8063#issuecomment-2230547907) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
-5. 🗣 Commented on [#8079](https://github.com/frontendbr/vagas/issues/8079#issuecomment-2230544415) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+1. 🗣 Commented on [#8104](https://github.com/frontendbr/vagas/issues/8104#issuecomment-2268409636) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+2. 🗣 Commented on [#7995](https://github.com/frontendbr/vagas/issues/7995#issuecomment-2231498014) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+3. 🗣 Commented on [#8030](https://github.com/frontendbr/vagas/issues/8030#issuecomment-2230550181) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+4. 🗣 Commented on [#8061](https://github.com/frontendbr/vagas/issues/8061#issuecomment-2230549661) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+5. 🗣 Commented on [#8063](https://github.com/frontendbr/vagas/issues/8063#issuecomment-2230547907) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
 <!--END_SECTION:activity-->
 
 
