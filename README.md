@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1286](https://github.com/phpdevbr/vagas/issues/1286#issuecomment-2309884092) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
-2. 🎉 Merged PR [#87](https://github.com/felipelssilva/v3/pull/87) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-3. 💪 Opened PR [#87](https://github.com/felipelssilva/v3/pull/87) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-4. 🗣 Commented on [#8104](https://github.com/frontendbr/vagas/issues/8104#issuecomment-2268409636) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
-5. 🗣 Commented on [#7995](https://github.com/frontendbr/vagas/issues/7995#issuecomment-2231498014) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+1. 🗣 Commented on [#1268](https://github.com/phpdevbr/vagas/issues/1268#issuecomment-2309893439) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
+2. 🗣 Commented on [#1286](https://github.com/phpdevbr/vagas/issues/1286#issuecomment-2309884092) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
+3. 🎉 Merged PR [#87](https://github.com/felipelssilva/v3/pull/87) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+4. 💪 Opened PR [#87](https://github.com/felipelssilva/v3/pull/87) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+5. 🗣 Commented on [#8104](https://github.com/frontendbr/vagas/issues/8104#issuecomment-2268409636) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
 <!--END_SECTION:activity-->
 
 
