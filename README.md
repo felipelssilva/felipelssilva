@@ -3,7 +3,7 @@
 
 <h3 align="left">About:</h3>
 
-- 🔭 I’m currently working on [NTT Data](https://nttdata-solutions.com/)
+- 🔭 I’m currently working on my own company [FL IT](https://www.linkedin.com/company/felipe-luis-it/)
 - 🌱 I’m currently learning **JavaScript, TypeScript, English and French**
 - 👨‍💻 All of my projects are available at [https://www.felipeluis.com.br/](https://www.felipeluis.com.br/)
 - 📝 I regularly write articles on [https://blog.felipeluis.com.br](https://blog.felipeluis.com.br)
