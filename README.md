@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Felipe Luis</h1>
-<h3 align="left">A passionate frontend developer living in France 🇫🇷 💻</h3>
+<h3 align="left">A passionate software developer focused on the front-end, I'm brasilien 🇧🇷 and living in France 🇫🇷 💻</h3>
 
 <h3 align="left">About:</h3>
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **JavaScript, TypeScript, English and French**
 - 👨‍💻 All of my projects are available at [https://www.felipeluis.com.br/](https://www.felipeluis.com.br/)
 - 📝 I regularly write articles on [https://blog.felipeluis.com.br](https://blog.felipeluis.com.br)
-- 💬 Ask me about **react, angular, typescript, javascript**
+- 💬 Ask me about **react, angular, vue, typescript, javascript, node**
 - 📫 How to reach me **contato@felipeluis.com.br**
 - 📄 Know about my experiences [https://www.felipeluis.com.br/#about](https://www.felipeluis.com.br/#about)
 - ⚡ Fun fact **I have tried to play guitar... and, now I know how to play drums**
