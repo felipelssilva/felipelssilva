@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2383463071) in [Splidejs/splide](https://github.com/Splidejs/splide)
-2. 🗣 Commented on [#1279](https://github.com/phpdevbr/vagas/issues/1279#issuecomment-2310241268) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
-3. 🗣 Commented on [#1287](https://github.com/phpdevbr/vagas/issues/1287#issuecomment-2310239948) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
-4. 🗣 Commented on [#1268](https://github.com/phpdevbr/vagas/issues/1268#issuecomment-2309893439) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
-5. 🗣 Commented on [#1286](https://github.com/phpdevbr/vagas/issues/1286#issuecomment-2309884092) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
+1. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2390845863) in [Splidejs/splide](https://github.com/Splidejs/splide)
+2. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2383463071) in [Splidejs/splide](https://github.com/Splidejs/splide)
+3. 🗣 Commented on [#1279](https://github.com/phpdevbr/vagas/issues/1279#issuecomment-2310241268) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
+4. 🗣 Commented on [#1287](https://github.com/phpdevbr/vagas/issues/1287#issuecomment-2310239948) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
+5. 🗣 Commented on [#1268](https://github.com/phpdevbr/vagas/issues/1268#issuecomment-2309893439) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
 <!--END_SECTION:activity-->
 
 
