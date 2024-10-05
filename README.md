@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2390845863) in [Splidejs/splide](https://github.com/Splidejs/splide)
-2. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2383463071) in [Splidejs/splide](https://github.com/Splidejs/splide)
-3. 🗣 Commented on [#1279](https://github.com/phpdevbr/vagas/issues/1279#issuecomment-2310241268) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
-4. 🗣 Commented on [#1287](https://github.com/phpdevbr/vagas/issues/1287#issuecomment-2310239948) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
-5. 🗣 Commented on [#1268](https://github.com/phpdevbr/vagas/issues/1268#issuecomment-2309893439) in [phpdevbr/vagas](https://github.com/phpdevbr/vagas)
+1. 💪 Opened PR [#15](https://github.com/frontendbr/compra-e-venda/pull/15) in [frontendbr/compra-e-venda](https://github.com/frontendbr/compra-e-venda)
+2. 💪 Opened PR [#93](https://github.com/frontendbr/poste-mais/pull/93) in [frontendbr/poste-mais](https://github.com/frontendbr/poste-mais)
+3. 💪 Opened PR [#42](https://github.com/frontendbr/sugestoes/pull/42) in [frontendbr/sugestoes](https://github.com/frontendbr/sugestoes)
+4. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2390845863) in [Splidejs/splide](https://github.com/Splidejs/splide)
+5. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2383463071) in [Splidejs/splide](https://github.com/Splidejs/splide)
 <!--END_SECTION:activity-->
 
 
