@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#89](https://github.com/felipelssilva/v3/pull/89) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-2. ❌ Closed PR [#88](https://github.com/felipelssilva/v3/pull/88) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-3. ❌ Closed PR [#81](https://github.com/felipelssilva/v3/pull/81) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-4. ❌ Closed PR [#86](https://github.com/felipelssilva/v3/pull/86) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-5. ❌ Closed PR [#84](https://github.com/felipelssilva/v3/pull/84) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+1. 🗣 Commented on [#1248](https://github.com/Splidejs/splide/issues/1248#issuecomment-2567575543) in [Splidejs/splide](https://github.com/Splidejs/splide)
+2. ❌ Closed PR [#89](https://github.com/felipelssilva/v3/pull/89) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+3. ❌ Closed PR [#88](https://github.com/felipelssilva/v3/pull/88) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+4. ❌ Closed PR [#81](https://github.com/felipelssilva/v3/pull/81) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+5. ❌ Closed PR [#86](https://github.com/felipelssilva/v3/pull/86) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
 <!--END_SECTION:activity-->
 
 
