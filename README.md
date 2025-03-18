@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#74](https://github.com/felipelssilva/api.my.website/pull/74) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
-2. ❌ Closed PR [#73](https://github.com/felipelssilva/api.my.website/pull/73) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
-3. ❌ Closed PR [#72](https://github.com/felipelssilva/api.my.website/pull/72) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
-4. ❌ Closed PR [#71](https://github.com/felipelssilva/api.my.website/pull/71) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
-5. ❌ Closed PR [#70](https://github.com/felipelssilva/api.my.website/pull/70) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+1. 🗣 Commented on [#36](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/36#issuecomment-2732412655) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+2. 🗣 Commented on [#35](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/35#issuecomment-2732412221) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+3. 🗣 Commented on [#34](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/34#issuecomment-2732411214) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+4. 🗣 Commented on [#33](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/33#issuecomment-2732410437) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+5. 🗣 Commented on [#32](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/32#issuecomment-2732409599) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
 <!--END_SECTION:activity-->
 
 
