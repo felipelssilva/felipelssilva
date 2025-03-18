@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/felipelssilva/v3/pull/97#issuecomment-2732111176) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-2. 🗣 Commented on [#97](https://github.com/felipelssilva/v3/pull/97#issuecomment-2732109647) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-3. 🗣 Commented on [#74](https://github.com/mickasmt/next-saas-stripe-starter/issues/74#issuecomment-2728892736) in [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter)
-4. ❗ Opened issue [#75](https://github.com/mickasmt/next-saas-stripe-starter/issues/75) in [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter)
-5. ❌ Closed PR [#86](https://github.com/felipelssilva/v3/pull/86) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+1. ❌ Closed PR [#74](https://github.com/felipelssilva/api.my.website/pull/74) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+2. ❌ Closed PR [#73](https://github.com/felipelssilva/api.my.website/pull/73) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+3. ❌ Closed PR [#72](https://github.com/felipelssilva/api.my.website/pull/72) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+4. ❌ Closed PR [#71](https://github.com/felipelssilva/api.my.website/pull/71) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+5. ❌ Closed PR [#70](https://github.com/felipelssilva/api.my.website/pull/70) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
 <!--END_SECTION:activity-->
 
 
