@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/36#issuecomment-2732412655) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
-2. 🗣 Commented on [#35](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/35#issuecomment-2732412221) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
-3. 🗣 Commented on [#34](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/34#issuecomment-2732411214) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
-4. 🗣 Commented on [#33](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/33#issuecomment-2732410437) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
-5. 🗣 Commented on [#32](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/32#issuecomment-2732409599) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+1. ❌ Closed PR [#388](https://github.com/felipelssilva/felipeluis.github.io/pull/388) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+2. ❌ Closed PR [#386](https://github.com/felipelssilva/felipeluis.github.io/pull/386) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+3. ❌ Closed PR [#383](https://github.com/felipelssilva/felipeluis.github.io/pull/383) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+4. ❌ Closed PR [#385](https://github.com/felipelssilva/felipeluis.github.io/pull/385) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+5. ❌ Closed PR [#382](https://github.com/felipelssilva/felipeluis.github.io/pull/382) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 <!--END_SECTION:activity-->
 
 
