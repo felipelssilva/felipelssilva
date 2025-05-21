@@ -31,7 +31,7 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#388](https://github.com/felipelssilva/felipeluis.github.io/pull/388) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+1. 🎉 Merged PR [#16](https://github.com/felipelssilva/unfollowInstagramAccounts/pull/16) in [felipelssilva/unfollowInstagramAccounts](https://github.com/felipelssilva/unfollowInstagramAccounts)
 2. ❌ Closed PR [#386](https://github.com/felipelssilva/felipeluis.github.io/pull/386) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 3. ❌ Closed PR [#383](https://github.com/felipelssilva/felipeluis.github.io/pull/383) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 4. ❌ Closed PR [#385](https://github.com/felipelssilva/felipeluis.github.io/pull/385) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
