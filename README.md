@@ -31,9 +31,9 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/felipelssilva/unfollowInstagramAccounts/pull/17#issuecomment-3227858945) in [felipelssilva/unfollowInstagramAccounts](https://github.com/felipelssilva/unfollowInstagramAccounts)
-2. 🚀 Published release [v1](https://github.com/felipelssilva/list-conservation-units/releases/tag/v1) in [felipelssilva/list-conservation-units](https://github.com/felipelssilva/list-conservation-units)
-3. ❌ Closed PR [#383](https://github.com/felipelssilva/felipeluis.github.io/pull/383) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+1. ❌ Closed PR [#17](https://github.com/felipelssilva/unfollowInstagramAccounts/pull/17) in [felipelssilva/unfollowInstagramAccounts](https://github.com/felipelssilva/unfollowInstagramAccounts)
+2. 🗣 Commented on [#17](https://github.com/felipelssilva/unfollowInstagramAccounts/pull/17#issuecomment-3227858945) in [felipelssilva/unfollowInstagramAccounts](https://github.com/felipelssilva/unfollowInstagramAccounts)
+3. 🚀 Published release [v1](https://github.com/felipelssilva/list-conservation-units/releases/tag/v1) in [felipelssilva/list-conservation-units](https://github.com/felipelssilva/list-conservation-units)
 4. ❌ Closed PR [#385](https://github.com/felipelssilva/felipeluis.github.io/pull/385) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 5. ❌ Closed PR [#382](https://github.com/felipelssilva/felipeluis.github.io/pull/382) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 <!--END_SECTION:activity-->
