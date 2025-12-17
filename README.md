@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/58#issuecomment-3664495687) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
-2. 🗣 Commented on [#50](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/50#issuecomment-3664495232) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
-3. 🚀 Published release [v1](https://github.com/felipelssilva/list-conservation-units/releases/tag/v1) in [felipelssilva/list-conservation-units](https://github.com/felipelssilva/list-conservation-units)
-4. ❌ Closed PR [#385](https://github.com/felipelssilva/felipeluis.github.io/pull/385) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-5. ❌ Closed PR [#382](https://github.com/felipelssilva/felipeluis.github.io/pull/382) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+1. 🗣 Commented on [#45](https://github.com/felipelssilva/my-blog/pull/45#issuecomment-3664577219) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
+2. 🗣 Commented on [#46](https://github.com/felipelssilva/my-blog/pull/46#issuecomment-3664576828) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
+3. 🗣 Commented on [#47](https://github.com/felipelssilva/my-blog/pull/47#issuecomment-3664576505) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
+4. 🗣 Commented on [#49](https://github.com/felipelssilva/my-blog/pull/49#issuecomment-3664576093) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
+5. 🚀 Published release [v1.1](https://github.com/felipelssilva/comofalarmuitosemdizernada/releases/tag/v1.1) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
 <!--END_SECTION:activity-->
 
 
