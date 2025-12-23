@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/felipelssilva/my-blog/pull/45#issuecomment-3664577219) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
-2. 🗣 Commented on [#46](https://github.com/felipelssilva/my-blog/pull/46#issuecomment-3664576828) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
-3. 🗣 Commented on [#47](https://github.com/felipelssilva/my-blog/pull/47#issuecomment-3664576505) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
-4. 🗣 Commented on [#49](https://github.com/felipelssilva/my-blog/pull/49#issuecomment-3664576093) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
-5. 🚀 Published release [v1.1](https://github.com/felipelssilva/comofalarmuitosemdizernada/releases/tag/v1.1) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+1. 🗣 Commented on [#63](https://github.com/felipelssilva/comofalarmuitosemdizernada/pull/63#issuecomment-3686979363) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+2. 🗣 Commented on [#93](https://github.com/felipelssilva/api.my.website/pull/93#issuecomment-3686973693) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+3. 🗣 Commented on [#89](https://github.com/felipelssilva/api.my.website/pull/89#issuecomment-3686973431) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+4. 🗣 Commented on [#85](https://github.com/felipelssilva/api.my.website/pull/85#issuecomment-3686972911) in [felipelssilva/api.my.website](https://github.com/felipelssilva/api.my.website)
+5. 🗣 Commented on [#45](https://github.com/felipelssilva/my-blog/pull/45#issuecomment-3664577219) in [felipelssilva/my-blog](https://github.com/felipelssilva/my-blog)
 <!--END_SECTION:activity-->
 
 
