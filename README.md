@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/felipelssilva/v3/pull/112#issuecomment-3687136447) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-2. 🗣 Commented on [#426](https://github.com/felipelssilva/felipeluis.github.io/pull/426#issuecomment-3687110656) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-3. 🗣 Commented on [#103](https://github.com/felipelssilva/v3/pull/103#issuecomment-3687108801) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-4. 🗣 Commented on [#114](https://github.com/felipelssilva/v3/pull/114#issuecomment-3687074960) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
-5. 🗣 Commented on [#426](https://github.com/felipelssilva/felipeluis.github.io/pull/426#issuecomment-3687074467) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+1. 🚀 Published release [v1.6.2](https://github.com/felipelssilva/felipeluis.github.io/releases/tag/v1.6.2) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+2. ❌ Closed PR [#426](undefined) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+3. 🗣 Commented on [#426](https://github.com/felipelssilva/felipeluis.github.io/pull/426#issuecomment-3687244745) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+4. 🗣 Commented on [#112](https://github.com/felipelssilva/v3/pull/112#issuecomment-3687136447) in [felipelssilva/v3](https://github.com/felipelssilva/v3)
+5. 🗣 Commented on [#426](https://github.com/felipelssilva/felipeluis.github.io/pull/426#issuecomment-3687110656) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 <!--END_SECTION:activity-->
 
 
