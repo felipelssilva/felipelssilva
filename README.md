@@ -31,11 +31,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-2. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710282320) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-3. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710230112) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-4. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710067450) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
-5. 🚀 Published release [v1.2](https://github.com/felipelssilva/comofalarmuitosemdizernada/releases/tag/v1.2) in [felipelssilva/comofalarmuitosemdizernada](https://github.com/felipelssilva/comofalarmuitosemdizernada)
+1. 🗣 Commented on [#25](https://github.com/felipelssilva/unfollowInstagramAccounts/pull/25#issuecomment-3729862427) in [felipelssilva/unfollowInstagramAccounts](https://github.com/felipelssilva/unfollowInstagramAccounts)
+2. ❌ Closed PR [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+3. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710282320) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+4. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710230112) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
+5. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710067450) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
 <!--END_SECTION:activity-->
 
 
