@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Felipe Luis</h1>
-<h3 align="left">A passionate software developer focused on the front-end, I'm brasilien 🇧🇷 and living in France 🇫🇷 💻</h3>
+<h3 align="left">A passionate software developer focused on the front-end</h3>
 
 <h3 align="left">About:</h3>
 
@@ -11,6 +11,7 @@
 - 📫 How to reach me **contato@felipeluis.com.br**
 - 📄 Know about my experiences [https://www.felipeluis.com.br/#about](https://www.felipeluis.com.br/#about)
 - ⚡ Fun fact **I have tried to play guitar... and, now I know how to play drums**
+- React, Nextjs, Angular, Vuejs, Typescript, Javascript, Node, Nestjs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
