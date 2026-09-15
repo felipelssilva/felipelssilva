@@ -32,7 +32,7 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#3](https://github.com/lalacarneiro/laiscarneiro.github.io/issues/3) in [lalacarneiro/laiscarneiro.github.io](https://github.com/lalacarneiro/laiscarneiro.github.io)
+1. 🚀 Published release [v1](https://github.com/lalacarneiro/laiscarneiro.github.io/releases/tag/v1) in [lalacarneiro/laiscarneiro.github.io](https://github.com/lalacarneiro/laiscarneiro.github.io)
 2. ℹ️ Assigned issue [#3](https://github.com/lalacarneiro/laiscarneiro.github.io/issues/3) in [lalacarneiro/laiscarneiro.github.io](https://github.com/lalacarneiro/laiscarneiro.github.io)
 3. ❗ Opened issue [#3](https://github.com/lalacarneiro/laiscarneiro.github.io/issues/3) in [lalacarneiro/laiscarneiro.github.io](https://github.com/lalacarneiro/laiscarneiro.github.io)
 4. 🗣 Commented on [#434](https://github.com/felipelssilva/felipeluis.github.io/pull/434#issuecomment-3710230112) in [felipelssilva/felipeluis.github.io](https://github.com/felipelssilva/felipeluis.github.io)
